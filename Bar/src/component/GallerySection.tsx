@@ -4,13 +4,14 @@ import Gallery1 from "../assets/Gallery1.jpg";
 import Gallery2 from "../assets/Gallery2.jpg";
 import Gallery3 from "../assets/Gallery3.jpg";
 import Gallery4 from "../assets/Gallery4.jpg";
-import Gallery12 from "../assets/Gallery12.jpg";
+import Gallery5 from "../assets/Gallery5.jpg";
 import Gallery6 from "../assets/Gallery6.jpg";
 import Gallery7 from "../assets/Gallery7.jpg";
 import Gallery8 from "../assets/Gallery8.jpg";
 import Gallery9 from "../assets/Gallery9.jpg";
 import Gallery10 from "../assets/Gallery10.jpg";
 import Gallery11 from "../assets/Gallery11.jpg";
+import Gallery12 from "../assets/Gallery12.jpg";
 
 const photos = [
   { src: Gallery, alt: "Cocktail" },
@@ -18,13 +19,14 @@ const photos = [
   { src: Gallery2, alt: "Bar" },
   { src: Gallery3, alt: "Cocktail" },
   { src: Gallery4, alt: "Drinks" },
-  { src: Gallery12, alt: "Bar" },
+  { src: Gallery5, alt: "Bar" },
   { src: Gallery6, alt: "Cocktail" },
   { src: Gallery7, alt: "Drinks" },
   { src: Gallery8, alt: "Bar" },
   { src: Gallery9, alt: "Cocktail" },
   { src: Gallery10, alt: "Drinks" },
   { src: Gallery11, alt: "Bar" },
+  { src: Gallery12, alt: "Cocktail" },
 ];
 
 const GallerySection = () => {
