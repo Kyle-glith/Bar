@@ -1,6 +1,6 @@
 import { useEffect, useRef, useState } from "react";
-import about1 from "../assets/about1.jpg";
-import about from "../assets/about.jpg";
+import about1 from "../assets/About1.jpg";
+import about from "../assets/About.jpg";
 
 const AboutSection = () => {
   const ref = useRef<HTMLDivElement>(null);
